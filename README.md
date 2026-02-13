@@ -1,3 +1,41 @@
+# 👋 Hi there, I’m Akshay Shelar
+
+I'm [Akshay Shelar](https://ask-shay.github.io), a Full Stack Engineer focused on building scalable, secure, and production-grade web systems. I specialize in the MERN stack, backend architecture, and cloud-integrated applications designed to solve real-world problems with clarity and performance.
+
+I enjoy working at the intersection of clean architecture, system design, and practical product thinking — turning complex requirements into reliable, maintainable solutions.
+
+<br />
+
+- 🛠️ Building scalable backend systems & real-time applications  
+- ☁️ Working with cloud services, secure authentication & deployment pipelines  
+- 🧠 Continuously improving system design & distributed architecture knowledge  
+- 🌐 Website: https://ashelar.netlify.app  
+- 📩 Reach me at: 7akshayshelar@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ask-shay/  
+- 🚀 Open to impactful engineering opportunities  
+
+#
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ask-shay&show_icons=true&theme=radical" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-shay&layout=compact" />
+
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+<img align="left" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+<img align="left" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+#
+
 <details>
 <summary>Akshay's Engineering Story</summary>
 
@@ -23,3 +61,4 @@ Today, I focus on building scalable backend systems, intuitive interfaces, and A
 Still learning. Still building. Always improving.
 
 </details>
+

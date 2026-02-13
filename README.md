@@ -4,8 +4,9 @@ I'm [Akshay Shelar](https://ask-shay.github.io), a Full Stack Engineer focused o
 
 I enjoy working at the intersection of clean architecture, system design, and practical product thinking — turning complex requirements into reliable, maintainable solutions.
 
-<br />
+---
 
+### 🚀 About Me
 - 🛠️ Building scalable backend systems & real-time applications  
 - ☁️ Working with cloud services, secure authentication & deployment pipelines  
 - 🧠 Continuously improving system design & distributed architecture knowledge  
@@ -14,30 +15,35 @@ I enjoy working at the intersection of clean architecture, system design, and pr
 - 🔗 LinkedIn: https://www.linkedin.com/in/ask-shay/  
 - 🚀 Open to impactful engineering opportunities  
 
-#
+---
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ask-shay&show_icons=true&theme=radical" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-shay&layout=compact" />
+### 📊 GitHub Stats
 
-<br />
-<br />
-<br />
-<br />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ask-shay&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-shay&layout=compact&theme=radical" />
+</p>
 
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-<img align="left" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-<img align="left" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+---
 
-<br />
-<br />
-<br />
-<br />
-<br />
+### 🧰 Tech Stack
 
-#
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
 
 <details>
-<summary>Akshay's Engineering Story</summary>
+<summary>📖 Akshay's Engineering Story</summary>
 
 I started my journey into technology driven by curiosity — not just about how software works, but why certain systems scale effortlessly while others break under pressure.
 
@@ -61,4 +67,3 @@ Today, I focus on building scalable backend systems, intuitive interfaces, and A
 Still learning. Still building. Always improving.
 
 </details>
-

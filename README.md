@@ -17,12 +17,28 @@ I enjoy working at the intersection of clean architecture, system design, and pr
 
 ---
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ask-shay&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ask-shay&layout=compact&theme=radical" />
-</p>
+### 🧠 Core Expertise
+
+- Backend Architecture & REST API Design  
+- Role-Based Access Control (RBAC) & Secure Authentication  
+- Real-Time Systems & Event-Driven Workflows  
+- Cloud-Native Deployments (AWS, Docker)  
+- Database Design (MongoDB, PostgreSQL)  
+- Production Monitoring & CI/CD Pipelines  
+
+---
+
+### 📈 Current Focus
+
+- Advanced System Design & Distributed Systems  
+- Scalable Backend Engineering  
+- AI-Integrated Application Development  
+- Performance Optimization & Reliability  
+
+---
+
 
 ---
 

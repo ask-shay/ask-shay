@@ -5,7 +5,7 @@
 <br />
  
 - Embracing the art of code craftsmanship.
-- Website : https://ask-shay.github.io
+- Website : https://ashelar.netlify.app
 - Reach me on : 7akshayshelar@gmail.com
 - LinkedIn : https://www.linkedin.com/in/ask-shay/
 - `open for job opportunities`
